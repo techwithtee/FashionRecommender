@@ -1,3 +1,4 @@
-# Fashion Classifier and Recommender
+# University of Essex: Individual Capstone Project
+# Fashion Classification & Recomendation System
 
-For my Unvieristy Final Year Individual Capstone Project I developed an AI system that classifies and recommends clothing items to users.
+Using the DeepFashion database, I developed a Fashion Classification & Recommendation System, which earned me a First-Class
