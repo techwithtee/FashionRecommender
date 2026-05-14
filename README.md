@@ -104,7 +104,7 @@ DeepFashion Dataset (800k+ images, 50 categories)
 
 ### Running the Notebook
 
-1. **Open in Google Colab** — upload `AIStylist_enhanced.ipynb` or open directly from your Drive.
+1. **Open in Google Colab** — upload `Fashion Recommender System.ipynb` or open directly from your Drive.
 2. **Enable GPU** — Runtime → Change runtime type → GPU.
 3. **Run Section 1** to install dependencies.
 4. **Run Section 3** to mount your Google Drive.
